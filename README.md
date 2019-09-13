@@ -1,7 +1,6 @@
-Student ID: ec18446
-Lab 2: external button input and an external LED
+Developed for ARM board FRDM-KL25Z 
 
-The original code has been modified to meet the requirements of Lab 2.
+Title: External button input and an external LED
 
 - Added an external LED as GPIO output using pull-up resistor method
 - Added changes to main.c and gpio.h to implement the external LED functionality
